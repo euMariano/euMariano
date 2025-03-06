@@ -34,8 +34,8 @@
 
 ### Studying at the moment:
 ![Golang](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
-![Rails](https://img.shields.io/badge/Ruby-0D1117?style=for-the-badge&logo=ruby&logoColor=red)&nbsp;
 ![Algorithms](https://img.shields.io/badge/-Algorithms-0D1117?style=for-the-badge&logo=algorithm&labelColor=0D1117)&nbsp;
+<!-- ![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=red)&nbsp; -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{euMariano}/count.svg" /></p> 
