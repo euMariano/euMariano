@@ -29,7 +29,7 @@
 ![Arch Linux *(I use Arch btw)* ](https://img.shields.io/badge/-Arch_Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=1793D1&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 ### Studying at the moment:
